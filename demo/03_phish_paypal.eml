@@ -1,0 +1,34 @@
+From: "PayPal Security" <service@paypa1-secure.com>
+To: "Mustafa AK" <mustafa@mustafaak0.dev>
+Subject: Urgent: your account has been suspended - verify now
+Date: Thu, 12 Nov 2026 09:45:00 +0300
+Reply-To: <paypal.verify.team@gmail.com>
+X-Mailer: PHPMailer 6.8 (https://github.com/PHPMailer/PHPMailer)
+Authentication-Results: mx.mustafaak0.dev; spf=fail (domain of
+ paypa1-secure.com does not designate 185.199.108.153 as permitted sender)
+ smtp.mailfrom=paypa1-secure.com; dkim=none (no key published); dmarc=fail
+ (p=NONE dis=NONE) header.from=paypa1-secure.com
+Received: from mx.mustafaak0.dev (mx.mustafaak0.dev [203.0.113.10]) by
+ imap.mustafaak0.dev with ESMTPS id a1b2c312; Thu, 12 Nov 2026 09:12:00 +0300
+Received: from vps-993.hostwinds.xyz (vps-993.hostwinds.xyz [185.199.108.153])
+ by mx.mustafaak0.dev with ESMTPS id a1b2c344; Thu, 12 Nov 2026 09:44:00 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2231887242363912779=="
+
+--===============2231887242363912779==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Verify your account.
+
+--===============2231887242363912779==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Dear Customer,</p><p>Your account has been <b>limited</b>. To =
+restore access, sign in:</p><p><a href=3D"http://185.199.108.153/paypal/login=
+">https://www.paypal.com/login</a></p></body></html>
+
+--===============2231887242363912779==--

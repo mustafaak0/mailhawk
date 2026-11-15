@@ -1,0 +1,41 @@
+From: "ShopNest Weekly" <news@shopnest.io>
+To: "Mustafa AK" <mustafa@mustafaak0.dev>
+Subject: Your weekly digest =?utf-8?b?4pyo?=
+Date: Thu, 12 Nov 2026 09:00:00 +0300
+Message-ID: <digest.2026.46.b9f@mail.shopnest.io>
+Return-Path: <bounces+em2356.3a1@em2356.shopnest.sendgrid.net>
+List-Unsubscribe: <https://shopnest.io/unsub>, <mailto:unsub@shopnest.io>
+X-Mailer: SendGrid Marketing Campaigns 10.2
+Authentication-Results: mx.mustafaak0.dev; spf=pass (sendgrid.net: domain of
+ em2356.shopnest.sendgrid.net designates 167.89.18.11 as permitted sender)
+ smtp.mailfrom=em2356.shopnest.sendgrid.net; dkim=pass (1024-bit key)
+ header.d=shopnest.io header.i=@shopnest.io; dmarc=pass (p=REJECT dis=NONE)
+ header.from=shopnest.io
+DKIM-Signature: v=1; a=rsa-sha256; d=shopnest.io; s=s1; c=relaxed/relaxed;
+ h=from:subject:to; b=Ym9ndXMK
+Received: from mx.mustafaak0.dev (mx.mustafaak0.dev [203.0.113.10]) by
+ imap.mustafaak0.dev with ESMTPS id a1b2c302; Thu, 12 Nov 2026 09:02:00 +0300
+Received: from o1.mail.shopnest.sendgrid.net (o1.mail.shopnest.sendgrid.net
+ [167.89.18.11]) by mx.mustafaak0.dev with ESMTPS id a1b2c301; Thu, 12 Nov
+ 2026 09:01:00 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8950401867585693644=="
+
+--===============8950401867585693644==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your weekly digest.
+
+--===============8950401867585693644==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Merhaba Mustafa,</p><p>Bu hafta =C3=B6ne =C3=A7=C4=B1kanlar: <=
+a href=3D"https://shopnest.io/deals">ShopNest f=C4=B1rsatlar=C4=B1</a></p><p>=
+<a href=3D"https://shopnest.io/unsub">abonelikten =C3=A7=C4=B1k</a></p></body=
+></html>
+
+--===============8950401867585693644==--

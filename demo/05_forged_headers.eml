@@ -1,0 +1,15 @@
+From: "Microsoft Account Team" <account-security-noreply@microsoft.com>
+To: "Mustafa AK" <mustafa@mustafaak0.dev>
+Subject: Security alert: unusual sign-in detected
+Date: Thu, 12 Nov 2026 09:05:00 +0300
+Message-ID: <msa.9f3c@wierd-mailer.local>
+Received: from outlook-olive2.microsoft.com (outlook-olive2.microsoft.com
+ [203.0.113.77]) by mx.mustafaak0.dev with ESMTPS id a1b2c303; Thu, 12 Nov
+ 2026 09:03:00 +0300
+Received: from DESKTOP-AK4712.home (DESKTOP-AK4712.home [192.168.1.66]) by
+ mail-relay.local with ESMTPS id a1b2c321; Thu, 12 Nov 2026 09:21:00 +0300
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Unusual sign-in detected. Review your recent activity.
